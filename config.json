@@ -1,0 +1,18 @@
+{
+  "discord": {
+    "guild": 774450353189683281,
+    "student_role": 774492946024235040,
+    "teacher_role": 774493599969705994,
+    "token": [token]
+  },
+  "smtp": {
+    "outgoing": "outgoing.mit.edu",
+    "password": [password],
+    "username": [username]
+  },
+  "csv": {
+    "students": "students_with_waiver.csv",
+    "teachers": "teachers_with_waiver.csv",
+    "tokens": "tokens.csv"
+  }
+}
